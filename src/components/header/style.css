@@ -1,0 +1,12 @@
+ul {
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    align-items: center;
+    margin-right: 40px;
+}
+
+header {
+    margin-top: -17px;
+    background-color: #008080;
+}
